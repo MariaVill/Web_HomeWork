@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILMS>
+    <film>
+        <filmname>1+1</filmname>
+        <genre>драма, комедия, биография</genre>
+        <year>2011</year>
+        <contry>Франция</contry>
+        <producer>Оливье Накаш, Эрик Толедано</producer>
+        <premiere>26 апреля 2012</premiere>
+    </film>
+    <film>
+        <filmname>Интерстеллар</filmname>
+        <genre>драма, приключения, фантатстика</genre>
+        <year>2014</year>
+        <contry>США</contry>
+        <producer>Кристофер Нолан</producer>
+        <premiere>6 ноября 2014</premiere>
+    </film>
+    <film>
+        <filmname>Аватар</filmname>
+        <genre>драма, боевик, приключения, фантатстика</genre>
+        <year>2009</year>
+        <contry>США, Великобритания</contry>
+        <producer>Джеймс Кэмерон</producer>
+        <premiere>17 декабря 2009</premiere>
+    </film>
+    <film>
+        <filmname>Зеленая книга</filmname>
+        <genre>драма</genre>
+        <year>2018</year>
+        <contry>США</contry>
+        <producer>Питер Фарелли</producer>
+        <premiere>24 января 2019</premiere>
+    </film>
+    <film>
+        <filmname>Как приручить дракона</filmname>
+        <genre> фэнтези, комедия</genre>
+        <year>2010</year>
+        <contry>США</contry>
+        <producer>Дин Деблуа, Крис Сандерс</producer>
+        <premiere>18 марта 2010</premiere>
+    </film>
+</FILMS>
